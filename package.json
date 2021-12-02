@@ -1,0 +1,17 @@
+{
+  "name": "pairgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genPair.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "htkcodes",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/address": "^5.5.0",
+    "@ethersproject/solidity": "^5.5.0",
+    "@pancakeswap/sdk": "^2.4.0",
+    "web3": "^1.6.1"
+  }
+}
