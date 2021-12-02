@@ -9,7 +9,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 * npm
   ```sh
-  npm install
+  npm install web3 @ethersproject/solidity @ethersproject/address @pancakeswap/sdk
   ```
   
   ## Usage
