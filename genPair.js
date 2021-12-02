@@ -99,7 +99,7 @@ var debugPrint = false
 generateApePanPairs()
 //generateWBNBPairs()
 
-//queryPairsList('ape')
+//queryPairsList('ape') //run first to get pairs
 
 
 
