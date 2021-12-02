@@ -2,7 +2,6 @@
 //Queries PCS and APESWAP for all pairs
 //Then constructs a list of dual listed pairs and returns a intersection of both lists
 var Web3 = require(  "web3");
-var pkg = require('@pancakeswap/sdk')
 var fs = require('fs');
 var ethersSol = require( '@ethersproject/solidity')
 var ethersAdd = require ('@ethersproject/address')
